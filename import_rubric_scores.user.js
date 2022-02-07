@@ -2,8 +2,7 @@
 // @name         Import Rubric Scores
 // @namespace    https://github.com/CUBoulder-OIT
 // @description  Import rubric criteria scores or ratings for an assignment from a CSV
-// @include      https://canvas.*.edu/courses/*/gradebook/speed_grader?*
-// @include      https://*.*instructure.com/courses/*/gradebook/speed_grader?*
+// @include      https://q.utoronto.ca/courses/*/gradebook/speed_grader?*
 // @grant        none
 // @require      https://code.jquery.com/ui/1.13.1/jquery-ui.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js
