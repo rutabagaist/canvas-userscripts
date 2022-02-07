@@ -3,6 +3,8 @@
 // @namespace    https://github.com/UCBoulder
 // @description  Export all rubric criteria scores for an assignment to a CSV
 // @include      https://q.utoronto.ca/courses/*/gradebook/speed_grader?*
+// @require      https://code.jquery.com/jquery-3.6.0.js
+// @require      https://code.jquery.com/ui/1.13.1/jquery-ui.js
 // @grant        none
 // @run-at       document-idle
 // @version      1.2.2
