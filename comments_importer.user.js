@@ -2,7 +2,7 @@
 // @name         Comments Importer
 // @namespace    https://github.com/UCBoulder
 // @description  Bulk import assignment comments into the Canvas gradebook.
-// @include      https://q.utoronto.ca/courses/*/gradebook/speed_grader?*
+// @include      https://q.utoronto.ca/courses/*/gradebook
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js
 // @run-at       document-idle
