@@ -4,6 +4,7 @@
 // @description  Import rubric criteria scores or ratings for an assignment from a CSV
 // @include      https://q.utoronto.ca/courses/*/gradebook/speed_grader?*
 // @grant        none
+// @require      https://code.jquery.com/jquery-3.6.0.js
 // @require      https://code.jquery.com/ui/1.13.1/jquery-ui.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js
 // @run-at       document-idle
