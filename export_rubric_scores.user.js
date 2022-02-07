@@ -2,8 +2,7 @@
 // @name         Export Rubric Scores
 // @namespace    https://github.com/UCBoulder
 // @description  Export all rubric criteria scores for an assignment to a CSV
-// @include      https://canvas.*.edu/courses/*/gradebook/speed_grader?*
-// @include      https://*.*instructure.com/courses/*/gradebook/speed_grader?*
+// @include      https://q.utoronto.ca/courses/*/gradebook/speed_grader?*
 // @grant        none
 // @run-at       document-idle
 // @version      1.2.2
