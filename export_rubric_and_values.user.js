@@ -132,7 +132,7 @@ defer(function() {
                         header += ',' + csvEncode('Points: ' + criterion.description);
                     }
                 });
-                title += '\n';
+                
                 header += '\n';
 
                 
