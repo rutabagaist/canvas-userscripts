@@ -117,7 +117,7 @@ defer(function() {
                 // Also create an object that maps criterion ids to an object mapping rating ids to descriptions
                 var critOrder = {};
                 var critRatingDescs = {};
-                var title = assignment.name
+                var title = assignment.name;
                 var header = "Criterion Name, Criterion Value";
                 $.each(assignment.rubric, function(critIndex, criterion) {
                     critOrder[criterion.id] = critIndex;
